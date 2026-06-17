@@ -328,7 +328,7 @@ if(index !== -1){
 								</div>
 							</div>
 						</div>
-						<div class="card-footer bg-warning d-flex justify-content-between align-items-center">
+						<div class="card-footer bg-info text-white d-flex justify-content-between align-items-center">
 							<button class="btn btn-sm btn-primary" onclick="Onedit(${updateId})">Edit</button>
 							<button class="btn btn-sm btn-danger" onclick="Onremove(${updateId})">Remove</button>
 
