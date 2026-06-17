@@ -99,7 +99,7 @@ function createnewcards(arr){
 												<strong class="text-danger">Only ${ele.rating.count} left !!</strong>
 
 											<div class="mt-3">
-												<button class="btn-sm btn-primary">ADD TO CART <i class="fa-solid fa-cart-shopping  text-warning"></i></button>
+												<button class="btn-sm btn-primary">ADD TO CART </button>
 											</div>
 											
 										</div>
@@ -201,7 +201,7 @@ function createcard(newProduct,res){
 												<strong class="text-danger">Only ${newProduct.rating.count} left !!</strong>
 
 											<div class="mt-3">
-												<button class="btn-sm btn-primary">ADD TO CART <i class="fa-solid fa-cart-shopping  text-warning"></i></button>
+												<button class="btn-sm btn-primary">ADD TO CART</button>
 											</div>
 											
 										</div>
